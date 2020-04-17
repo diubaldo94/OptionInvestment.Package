@@ -1,0 +1,15 @@
+C:\Projects\TradestationInvestment\TradestationInvestment\obj\Debug\netcoreapp2.1\TradestationInvestment.csproj.CoreCompileInputs.cache
+C:\Projects\TradestationInvestment\TradestationInvestment\obj\Debug\netcoreapp2.1\TradestationInvestment.AssemblyInfoInputs.cache
+C:\Projects\TradestationInvestment\TradestationInvestment\obj\Debug\netcoreapp2.1\TradestationInvestment.AssemblyInfo.cs
+C:\Projects\TradestationInvestment\TradestationInvestment\bin\Debug\netcoreapp2.1\TradestationInvestment.deps.json
+C:\Projects\TradestationInvestment\TradestationInvestment\bin\Debug\netcoreapp2.1\TradestationInvestment.runtimeconfig.json
+C:\Projects\TradestationInvestment\TradestationInvestment\bin\Debug\netcoreapp2.1\TradestationInvestment.runtimeconfig.dev.json
+C:\Projects\TradestationInvestment\TradestationInvestment\bin\Debug\netcoreapp2.1\TradestationInvestment.dll
+C:\Projects\TradestationInvestment\TradestationInvestment\bin\Debug\netcoreapp2.1\TradestationInvestment.pdb
+C:\Projects\TradestationInvestment\TradestationInvestment\obj\Debug\netcoreapp2.1\TradestationInvestment.csprojAssemblyReference.cache
+C:\Projects\TradestationInvestment\TradestationInvestment\obj\Debug\netcoreapp2.1\TradestationInvestment.RazorAssemblyInfo.cache
+C:\Projects\TradestationInvestment\TradestationInvestment\obj\Debug\netcoreapp2.1\TradestationInvestment.RazorAssemblyInfo.cs
+C:\Projects\TradestationInvestment\TradestationInvestment\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Projects\TradestationInvestment\TradestationInvestment\obj\Debug\netcoreapp2.1\TradestationInvestment.RazorTargetAssemblyInfo.cache
+C:\Projects\TradestationInvestment\TradestationInvestment\obj\Debug\netcoreapp2.1\TradestationInvestment.dll
+C:\Projects\TradestationInvestment\TradestationInvestment\obj\Debug\netcoreapp2.1\TradestationInvestment.pdb
