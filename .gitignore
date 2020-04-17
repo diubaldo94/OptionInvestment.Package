@@ -5,18 +5,15 @@
 *.suo
 *.user
 *.sln.docstates
+*/.vs
 
 # Build results
 
-TradestationInvestment/[Dd]ebug/
-TradestationInvestment/[Rr]elease/
-TradestationInvestment/x64/
-TradestationInvestment/[Bb]in/
-TradestationInvestment/[Oo]bj/
+*/obj
+*/bin
+*/Debug
+*/Release
 
-# MSTest test Results
-TradestationInvestment/[Tt]est[Rr]esult*/
-TradestationInvestment/[Bb]uild[Ll]og.*
 
 *_i.c
 *_p.c
