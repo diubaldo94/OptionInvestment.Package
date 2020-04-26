@@ -11842,9 +11842,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\TradestationInvestment\\TradestationInvestment\\TradestationInvestment.csproj",
-      "projectName": "TradestationInvestment",
-      "projectPath": "C:\\Projects\\TradestationInvestment\\TradestationInvestment\\TradestationInvestment.csproj",
+      "projectUniqueName": "C:\\Projects\\TradestationInvestment\\TradestationInvestment\\OptionInvestment.csproj",
+      "projectName": "OptionInvestment",
+      "projectPath": "C:\\Projects\\TradestationInvestment\\TradestationInvestment\\OptionInvestment.csproj",
       "packagesPath": "C:\\Users\\diuba\\.nuget\\packages\\",
       "outputPath": "C:\\Projects\\TradestationInvestment\\TradestationInvestment\\obj\\",
       "projectStyle": "PackageReference",

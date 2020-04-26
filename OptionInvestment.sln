@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradestationInvestment", "TradestationInvestment\TradestationInvestment.csproj", "{FF32EB80-3624-498D-BB0F-369389A01C84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptionInvestment", "TradestationInvestment\OptionInvestment.csproj", "{FF32EB80-3624-498D-BB0F-369389A01C84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCollector", "WebScaper\DataCollector.csproj", "{137A211F-9183-4895-AF5D-04CC8E3049AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataCollector", "WebScaper\DataCollector.csproj", "{137A211F-9183-4895-AF5D-04CC8E3049AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TsGateway", "TsGateway\TsGateway.csproj", "{CA324F8C-A747-435E-AC4D-446CA64EE3C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TsGateway", "TsGateway\TsGateway.csproj", "{CA324F8C-A747-435E-AC4D-446CA64EE3C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCollector.Test", "DataCollector.Test\DataCollector.Test.csproj", "{A259379D-3858-428F-83D9-207A2BDC8CF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataCollector.Test", "DataCollector.Test\DataCollector.Test.csproj", "{A259379D-3858-428F-83D9-207A2BDC8CF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TsGateway.Test", "TsGateway.Test\TsGateway.Test.csproj", "{EF19CE68-B50A-4040-BA8B-0736E692CAE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TsGateway.Test", "TsGateway.Test\TsGateway.Test.csproj", "{EF19CE68-B50A-4040-BA8B-0736E692CAE9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{F9CAD25D-D0A7-47F2-8A98-C47C4FC09D89}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptionInvestment.Test", "TradestationInvenstment.Test\OptionInvestment.Test.csproj", "{8D11FF25-D511-4E98-9AEE-F80B1BE9D79A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{51951B0E-F330-49B4-921A-AB2D5E6AE292}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +45,14 @@ Global
 		{EF19CE68-B50A-4040-BA8B-0736E692CAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF19CE68-B50A-4040-BA8B-0736E692CAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF19CE68-B50A-4040-BA8B-0736E692CAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D11FF25-D511-4E98-9AEE-F80B1BE9D79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D11FF25-D511-4E98-9AEE-F80B1BE9D79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D11FF25-D511-4E98-9AEE-F80B1BE9D79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D11FF25-D511-4E98-9AEE-F80B1BE9D79A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51951B0E-F330-49B4-921A-AB2D5E6AE292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51951B0E-F330-49B4-921A-AB2D5E6AE292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51951B0E-F330-49B4-921A-AB2D5E6AE292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51951B0E-F330-49B4-921A-AB2D5E6AE292}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +60,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{A259379D-3858-428F-83D9-207A2BDC8CF8} = {F9CAD25D-D0A7-47F2-8A98-C47C4FC09D89}
 		{EF19CE68-B50A-4040-BA8B-0736E692CAE9} = {F9CAD25D-D0A7-47F2-8A98-C47C4FC09D89}
+		{8D11FF25-D511-4E98-9AEE-F80B1BE9D79A} = {F9CAD25D-D0A7-47F2-8A98-C47C4FC09D89}
+		{51951B0E-F330-49B4-921A-AB2D5E6AE292} = {F9CAD25D-D0A7-47F2-8A98-C47C4FC09D89}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A668D672-A354-43B9-A74B-E53F054E1A04}
